@@ -30,7 +30,7 @@ based on your favorite movie using cosine similarity.
 - pandas, numpy, scikit-learn, difflib
 
 ## Dataset
-[TMDB 5000 Movies Dataset](https://www.kaggle.com/datasets/tmatijev/tmdb-5000-movie-dataset)
+[movies.csv](./movies.csv)
 
 ## Example
 ```
